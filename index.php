@@ -50,7 +50,7 @@ foreach ( $rules as $action => $rule ) {
 <form action="<?php echo DOMAIN; ?>" method="post" class="url_form">
 						
 						
-							URL:<input type="text" size="20" placeholder="URL" name="url" style="margin-top: -100;"/>
+							<input type="text" size="20" placeholder="URL" name="url" style="margin-top: -150;"/>
 						
 						
 						<div style="margin-left: 107%;
